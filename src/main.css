@@ -153,7 +153,7 @@ svg[class^=slider_] > rect[fill='white'] /* settings checkbuttons slider */ {
 	background: var(--txt-1);
 }
 [class^=message_][class*=mentioned_]::before /* mention message left bar */ {
-	background: var(--acc-0);
+	background: var(--mention-txt);
 }
 
 /* add spacing */
